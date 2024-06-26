@@ -1,4 +1,4 @@
-# docker-compose
+# docker-compose, where you can find everything you need
 ## The Idea
 This repository contains a list of docker compose that I created in the years to help myself when I need to deploy applications for testing or as a permanent solution for some projects
 ## How to Navigate
